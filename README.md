@@ -4,12 +4,11 @@ _ a clock
 _ time counter 
 _ an alarm (that enables you to play your favorite song to wake you up  )
 _ a touchscreen and an easy interface 
-                                                                                                                                                                                                                                                              ## **THE BOM (bill of materials ) :**
+                                                                                                                              ## **THE BOM (bill of materials ) :**
 - LOLIN C3 Mini ESP32
 - 2.8 SPI TFT Touchsceen( ILI9341 + XPT2046 )
 - DS3231 (keeps acccurate time without wifi )
 - DFPlayer mini
-- microSD card (any kind , just with enugh storage to store alarm sounds)
 - speaker 3 watt,4 ohm
 - 3.7 V lipo battery
 - TP4056 charging module
