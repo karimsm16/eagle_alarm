@@ -12,4 +12,7 @@ _ **a touchscreen** and an easy interface
 - speaker 3 watt,4 ohm
 - 3.7 V lipo battery
 - TP4056 charging module
-- Capacitive touch sensor (TTP223)                                                                                                                                                                                                                              
+- Capacitive touch sensor (TTP223)
+# the_wiring_diagram :    
+- <img width="626" height="872" alt="Capture d&#39;écran 2026-08-10 025215" src="https://github.com/user-attachments/assets/fbe7bce0-9b97-476f-aecc-8b9ca0bcf709" />
+                                                                              
