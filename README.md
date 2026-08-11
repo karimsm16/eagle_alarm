@@ -1,4 +1,4 @@
-# eagle_alarm
+# Tonga_alarm
 in this project I 'm gonna build an alarm to wake me up but with more features, it include :
 _**a clock** 
 _ **time counter**
