@@ -13,7 +13,7 @@ _ **a touchscreen** and an easy interface
 - 3.7 V lipo battery
 - TP4056 charging module
 - **BOM.CVS**
-- [TOGA_BOM.csv]
+[TOGA_BOM.CVS](./TOGA_BOM)
 
 
 - Capacitive touch sensor (TTP223)
