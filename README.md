@@ -14,7 +14,7 @@ _ **a touchscreen** and an easy interface
 - TP4056 charging module
 - Capacitive touch sensor (TTP223)
    - **BOM.CVS**
-[TOGA_BOM.csv](./TOGA_BOM.csv)
+[BOM.md](./BOM.md)
 
 
 # the_wiring_diagram :    
