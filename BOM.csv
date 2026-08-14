@@ -1,7 +1,7 @@
-component,value,QTY,Supplier,link
-microcontroller,ESP32 C3 super mini,1,aliexpress,https://www.aliexpress.com/item/1005006357721395.html?spm=a2g0o.cart.0.0.3d39378dHVMT8e&mp=1&pdp_npi=6%40dis%21MAD%21MAD+265.93%21MAD+265.93%[...]
-display,2.8 capacitive touch screen,1,aliexpress,https://www.aliexpress.com/item/1005004557916570.html?spm=a2g0o.cart.0.0.7f6838daCttMo4&mp=1&pdp_npi=6%40dis%21MAD%21MAD+113.01%21MAD+113.01%[...]
-RTC,DS3231,1,aliexpress,https://www.aliexpress.com/item/1005006102342437.html?spm=a2g0o.cart.0.0.5c7538dalIQh7b&mp=1&pdp_npi=6%40dis%21MAD%21MAD+16.99%21MAD+16.99%21%21MAD+16.99%21%21%21%404[...]
-audio,DFPlayer mini,1,aliexpress,https://www.aliexpress.com/item/1005008228039985.html?spm=a2g0o.detail.0.0.7182wPCVwPCVHE&mp=1&pdp_npi=6%40dis%21MAD%21MAD+23.10%21MAD+23.10%21%21MAD+23.10%2[...]
-charger,TP4056,1,aliexpress,https://www.aliexpress.com/item/1005007593596607.html?spm=a2g0o.cart.0.0.508c38daWxSEO7&mp=1&pdp_npi=6%40dis%21MAD%21MAD+13.98%21MAD+12.97%21%21MAD+12.97%21%21%21[...]
-touch screen,TTP223,1,aliexpress,https://www.aliexpress.com/item/1005006087171183.html?spm=a2g0o.detail.0.0.2257YUuPYUuPyf&mp=1&pdp_npi=6%40dis%21MAD%21MAD+16.01%21MAD+16.01%21%21MAD+16.01%2[...]
+component,value,QTY,Supplier,link,price_USD,price_note
+microcontroller,ESP32 C3 super mini,1,aliexpress,https://www.aliexpress.com/item/1005006357721395.html?spm=a2g0o.cart.0.0.3d39378dHVMT8e&mp=1&pdp_npi=6%40dis%21MAD%21MAD+265.93%21MAD+265.93%[...],28.72,converted from MAD 265.93 at 0.108 USD/MAD on 2026-08-14; verify
+display,2.8 capacitive touch screen,1,aliexpress,https://www.aliexpress.com/item/1005004557916570.html?spm=a2g0o.cart.0.0.7f6838daCttMo4&mp=1&pdp_npi=6%40dis%21MAD%21MAD+113.01%21MAD+113.01%[...],12.21,converted from MAD 113.01 at 0.108 USD/MAD on 2026-08-14; verify
+RTC,DS3231,1,aliexpress,https://www.aliexpress.com/item/1005006102342437.html?spm=a2g0o.cart.0.0.5c7538dalIQh7b&mp=1&pdp_npi=6%40dis%21MAD%21MAD+16.99%21MAD+16.99%21%21MAD+16.99%21%21%21%404[...],1.83,converted from MAD 16.99 at 0.108 USD/MAD on 2026-08-14; verify
+audio,DFPlayer mini,1,aliexpress,https://www.aliexpress.com/item/1005008228039985.html?spm=a2g0o.detail.0.0.7182wPCVwPCVHE&mp=1&pdp_npi=6%40dis%21MAD%21MAD+23.10%21MAD+23.10%21%21MAD+23.10%2[...],2.49,converted from MAD 23.10 at 0.108 USD/MAD on 2026-08-14; verify
+charger,TP4056,1,aliexpress,https://www.aliexpress.com/item/1005007593596607.html?spm=a2g0o.cart.0.0.508c38daWxSEO7&mp=1&pdp_npi=6%40dis%21MAD%21MAD+13.98%21MAD+12.97%21%21MAD+12.97%21%21%21[...],1.40,converted from MAD 12.97 at 0.108 USD/MAD on 2026-08-14; verify
+touch screen,TTP223,1,aliexpress,https://www.aliexpress.com/item/1005006087171183.html?spm=a2g0o.detail.0.0.2257YUuPYUuPyf&mp=1&pdp_npi=6%40dis%21MAD%21MAD+16.01%21MAD+16.01%21%21MAD+16.01%2[...],1.73,converted from MAD 16.01 at 0.108 USD/MAD on 2026-08-14; verify
