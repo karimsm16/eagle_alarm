@@ -1,8 +1,8 @@
 component,value,QTY,Supplier,link,price_USD,Total_USD
 microcontroller,ESP32 C3 super mini,1,aliexpress,https://www.aliexpress.com/item/1005007869446657.html?spm=a2g0o.cart.0.0.202b38dafi6yuE&mp=1&pdp_npi=6%40dis%21USD%21USD+3.92%21USD+3.92%21%21USD+3.92%21%21%21%400b8848e3178666862774,3.92,3.92
-display,2.8 capacitive touch screen,1,aliexpress,https://www.aliexpress.com/item/1005004557916570.html,12.20,12.20
-RTC,DS3231,1,aliexpress,https://www.aliexpress.com/item/1005006102342437.html,1.83,1.83
-audio,DFPlayer mini,1,aliexpress,https://www.aliexpress.com/item/1005008228039985.html,2.49,2.49
-charger,TP4056,1,aliexpress,https://www.aliexpress.com/item/1005007593596607.html,1.40,1.40
-touch screen,TTP223,1,aliexpress,https://www.aliexpress.com/item/1005006087171183.html,1.73,1.73
-,, ,,,Grand_Total_USD,23.57
+display,2.8 capacitive touch screen,1,aliexpress,https://www.aliexpress.com/item/1005004557916570.html,11.25,11.25
+RTC,DS3231,1,aliexpress,https://www.aliexpress.com/item/1005006102342437.html,1.69,1.69
+audio,DFPlayer mini,1,aliexpress,https://www.aliexpress.com/item/1005008228039985.html,2.30,2.30
+charger,TP4056,1,aliexpress,https://www.aliexpress.com/item/1005007593596607.html,1.30,1.30
+touch screen,TTP223,1,aliexpress,https://www.aliexpress.com/item/1005006087171183.html,1.60,1.60
+,, ,,,Grand_Total_USD,22.06
