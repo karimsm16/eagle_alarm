@@ -1,5 +1,5 @@
 component,value,QTY,Supplier,link,price_USD,Total_USD
-microcontroller,ESP32 C3 super mini,1,aliexpress,https://www.aliexpress.com/item/1005007869446657.html,,
+microcontroller,ESP32 C3 super mini,1,aliexpress,https://www.aliexpress.com/item/1005007869446657.html,3.92,3.92
 display,2.8 capacitive touch screen,1,aliexpress,https://www.aliexpress.com/item/1005004557916570.html,11.25,11.25
 RTC,DS3231,1,aliexpress,https://www.aliexpress.com/item/1005006102342437.html,1.69,1.69
 audio,DFPlayer mini,1,aliexpress,https://www.aliexpress.com/item/1005008228039985.html,2.30,2.30
